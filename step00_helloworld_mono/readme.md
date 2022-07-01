@@ -18,12 +18,19 @@ Now we will follow this:
 
 [Mono](https://www.mono-project.com/docs/getting-started/mono-basics/)
 
-Write code in hello.cs
+Write code in Program.cs
+
+See https://aka.ms/new-console-template for more information
 
 Compile:
 
-csc hello.cs
+csc Program.cs
 
 Run code:
 
-mono hello.exe
+mono Program.exe
+
+
+Now we will go though the [The C# Player's Guide 5th Edition Book](https://www.amazon.com/C-Players-Guide-5th-ebook/dp/B0B5CNVMDY/ref=sr_1_1)
+
+The Solution for the book are available [here](https://csharpplayersguide.com/solutions/5th-edition/)
