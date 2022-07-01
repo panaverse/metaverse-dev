@@ -34,5 +34,6 @@ Run code:
 mono Program.exe
 
 
-
 The Solution for the book are available [here](https://csharpplayersguide.com/solutions/5th-edition/)
+
+Now complete chapters 3-22, 25-30, and 35-38 of the Text Book.
