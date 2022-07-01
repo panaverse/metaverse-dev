@@ -12,6 +12,8 @@ Note: Donot install the  Visual Studio version but the plain Mono.
 
 [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 
+Please set useModernNet to false in your VS Code settings and restart the above extension.
+
 Now we will follow this:
 
 [Mono](https://www.mono-project.com/docs/getting-started/mono-basics/)
